@@ -1,34 +1,34 @@
 ---
 layout: about
-title: about
+title: Bai Li
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  image: /bai.jpg
+  image_circular: true
+  size: 200px
+  more_info:
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm **Bai Li**, a machine learning engineer with a PhD in NLP and over 10 published papers. I’ve worked on healthcare optimization, real-time speech systems, and delivering ML products across startups, academia, and applied research. I love turning complex models into intuitive, user-friendly products.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+---
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**June 2025** - I'm looking for a new role as an ML Engineer or Applied Scientist -- preferably in Seattle at a mid-size company building ML-driven products. If you know anyone who might be hiring, I'd love to connect!
+
+---
+
+**Recent Work**
+
+- **Voice Writer** — A speech-to-text productivity app with real-time LLM grammar correction. Thousands of users. [Try it](https://voicewriter.io)
+- **EfficientNLP** — YouTube channel focused on ML, LLMs, and speech models. 13k+ subscribers. [Watch](https://www.youtube.com/@EfficientNLP)
+- **Untether Labs** — Founding engineer, built a healthcare scheduling optimizer for 1,500 clinicians. [Learn more](https://untetherlabs.com)
+
+---
+
+📄 [Resume](/assets/pdf/Resume2025.pdf) | [LinkedIn](https://www.linkedin.com/in/libai/) | [Scholar](https://scholar.google.com/citations?user=ShI7ycoAAAAJ) | [GitHub](https://github.com/lucky-bai) | [YouTube](https://www.youtube.com/@EfficientNLP)
+
+---
+
+💬 Want to connect? [Email me](mailto:bai.li.2005@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/libai/).
