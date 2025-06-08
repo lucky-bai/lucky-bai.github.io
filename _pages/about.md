@@ -27,7 +27,7 @@ I'm **Bai Li**, a machine learning engineer with a PhD in NLP and over 10 publis
 
 ---
 
-📄 [Resume](/assets/pdf/Resume2025.pdf) | [LinkedIn](https://www.linkedin.com/in/libai/) | [Scholar](https://scholar.google.com/citations?user=ShI7ycoAAAAJ) | [GitHub](https://github.com/lucky-bai) | [YouTube](https://www.youtube.com/@EfficientNLP)
+[Resume](/assets/pdf/Resume2025.pdf) | [LinkedIn](https://www.linkedin.com/in/libai/) | [Scholar](https://scholar.google.com/citations?user=ShI7ycoAAAAJ) | [GitHub](https://github.com/lucky-bai) | [YouTube](https://www.youtube.com/@EfficientNLP)
 
 ---
 
