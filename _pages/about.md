@@ -15,10 +15,6 @@ I'm **Bai Li**, a machine learning engineer with a PhD in NLP and over 10 publis
 
 ---
 
-**June 2025** - I'm looking for a new role as an ML Engineer or Applied Scientist -- preferably in Seattle at a mid-size company building ML-driven products. If you know anyone who might be hiring, I'd love to connect!
-
----
-
 **Recent Work**
 
 - **Voice Writer** — A speech-to-text productivity app with real-time LLM grammar correction. Thousands of users. [Try it](https://voicewriter.io)
