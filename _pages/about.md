@@ -11,14 +11,14 @@ profile:
 social: true
 ---
 
-I'm **Bai Li**, a machine learning engineer with a PhD in NLP and over 10 published papers. I’ve worked on healthcare optimization, real-time speech systems, and delivering ML products across startups, academia, and applied research. I love turning complex models into intuitive, user-friendly products.
+I'm **Bai Li**, a machine learning engineer with a PhD in NLP and over 10 published papers. Currently I'm based in the Bellevue/Seattle area working on AI agents at UiPath. Previously I’ve worked on healthcare optimization, real-time speech systems, and delivering ML products across startups, academia, and applied science. I love turning complex models into intuitive, user-friendly products.
 
 ---
 
 **Recent Work**
 
 - **Voice Writer** — A speech-to-text productivity app with real-time LLM grammar correction. Thousands of users. [Try it](https://voicewriter.io)
-- **EfficientNLP** — YouTube channel focused on ML, LLMs, and speech models. 13k+ subscribers. [Watch](https://www.youtube.com/@EfficientNLP)
+- **EfficientNLP** — YouTube channel focused on ML, LLMs, and speech models. 17k+ subscribers. [Watch](https://www.youtube.com/@EfficientNLP)
 - **Untether Labs** — Founding engineer, built a healthcare scheduling optimizer for 1,500 clinicians. [Learn more](https://untetherlabs.com)
 
 ---
